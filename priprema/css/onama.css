@@ -1,0 +1,28 @@
+.left img{
+    height: 500px;
+    width: 400px;
+    object-fit: cover;
+    margin-left: 15px;
+}
+
+.about-content{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.left{
+    width: 30%;
+
+}
+
+.right{
+    width: 60%;
+}
+
+h2{
+    text-align: center;
+    font-size: 35px;
+    
+}

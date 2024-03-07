@@ -1,0 +1,20 @@
+body{
+    background: url("../img/home.jfif") no-repeat;
+    background-size: cover;
+}
+
+.form-box{
+    max-width: 500px;
+    margin: auto;
+    padding: 50px;
+    background-color: wheat;
+}
+
+h1{
+    text-align: center;
+
+}
+
+input,textarea{
+    width: 100%;
+}
